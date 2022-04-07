@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "socket-testing",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "devraj sen",
+  "license": "ISC",
+  "description": "socket testing",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "engine.io": "^6.1.2",
+    "express": "^4.17.2",
+    "http": "0.0.1-security",
+    "net": "^1.0.2",
+    "path": "^0.12.7",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1"
+  }
+}
